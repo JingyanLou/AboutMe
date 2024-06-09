@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, My name is Jingyan Lou, but feel free to call me Forest</h1>
 <h3 align="center">BCompSc/MIT @ Monash University</h3>
 
-- 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Web Development with MERN and DevOps/Cloud Computing**
 
-- 💬 Ask me about **Monash Course related C30001/C60001**
+- 💬 Ask me about **Monash Course related C3001/C6001**
 
 - 📫 How to reach me **loujingyan226@gmail.com**
 
-- ⚡ Fun fact **Every 60 seconds, a minute pass.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
